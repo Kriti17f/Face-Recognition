@@ -2,15 +2,15 @@
 
 Task Description 📄
 
-❄️ Create a program that perform below mentioned task upon recognizing a particular face.
+❄️ Create a program that performs the below-mentioned task upon recognizing a particular face.
 
-📌 When it recognize your face then -
+📌 When it recognizes your face then -
 
-👉 It send mail to your mail id by writing this is face of your_name.
+👉 It sends mail to your mail-id by writing this is the face of your_name.
 
-👉 Second it send whatsapp message to your friend, it can be anything.
+👉 Second, it sends a WhatsApp message to your friend, it can be anything.
 
-📌 When it recognize second face, it can be your friend or family members face.
+📌 When it recognizes a second face, it can be your friend's or family member's face.
 
 👉 Create EC2 instance in the AWS using Terraform
 
